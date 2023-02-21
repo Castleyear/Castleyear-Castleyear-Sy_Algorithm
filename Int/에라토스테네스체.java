@@ -13,7 +13,7 @@ public class 에라토스테네스체 {
 				count++;
 				tmp[i] = 1;
 				for (int j = i; j <= n; j = j + i) {
-					answer[j] = 1;
+					answer[j] = 1; // test
 				}
 			}
 		}
