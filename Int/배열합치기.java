@@ -1,4 +1,4 @@
-package 알고리즘.Int;
+package Int;
 
 import java.util.ArrayList;
 import java.util.List;
