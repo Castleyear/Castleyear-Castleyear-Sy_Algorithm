@@ -14,7 +14,7 @@ public class 큰수출력하기 {
 		for (int i = 1; i < arr.length; i++) {
 			if (num < arr[i]) {
 				answer += String.valueOf(arr[i]) + " ";
-			}
+			} //test
 			num = arr[i];
 		}
 
