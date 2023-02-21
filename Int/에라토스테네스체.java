@@ -9,7 +9,7 @@ public class 에라토스테네스체 {
 		int tmp[] = new int[n + 1];
 		int count = 0;
 		for (int i = 2; i <= n; i++) {
-			if (answer[i] == 0) {
+			if (answer[i] == 0) { //test
 				count++;
 				tmp[i] = 1;
 				for (int j = i; j <= n; j = j + i) {
