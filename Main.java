@@ -6,7 +6,7 @@ public class Main {
         Main m = new Main();
     }
 
-    public int solution() { //test
+    public int solution() {
         int answer = 0;
         return answer;
     }
