@@ -7,7 +7,7 @@ public class Main {
     }
 
     public int solution() {
-        int answer = 0;
+        int answer = 0;   
         return answer;
     }
 
