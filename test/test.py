@@ -1,1 +1,3 @@
-print("asd");
+print("asd"); 
+
+print("dddd");
